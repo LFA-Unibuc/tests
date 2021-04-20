@@ -1,5 +1,5 @@
 # tests
-Write input files for the NFA and DFA modules that you implemented.
+Write valid input files for the NFA and DFA modules that you implemented.
 Respect the folder structure provided in the templte. Write 3 DFA config files and 3 NFA confing files.
 
 For every config file, write 5 tests that should be accepted and 5 tests that should be rejected. 
