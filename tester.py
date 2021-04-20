@@ -6,3 +6,6 @@ from dfa.dfa import DFA
 
 dfa = DFA('automaton.cfg')
 test(dfa.accepts_string('string_1.in') == parse('string_1.out'))
+
+nfa = NFA('automaton.cfg')
+test(dfa.accepts_string('string_1.in') == parse('string_1.out'))
