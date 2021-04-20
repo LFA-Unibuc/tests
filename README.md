@@ -10,7 +10,15 @@ A one config file for an automaton that accepts time  specifications. All  of  t
 - 2 3 : 4 2
 - 3 : 1 6 
 - 3 : 1 6 a m
-
+- 1 3 : 0 3
+- 3 : 0 3 p m
+Not accepted:
+- 0 3 : 0 3
+- 1 3
+- 0 3 A M
+- 0 3 : 4 3
+- 1 3 : 4
+- 3 : 4 P M
 
 How your prgrams will be run:
 
