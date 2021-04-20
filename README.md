@@ -10,3 +10,10 @@ A one config file for an automaton that accepts time  specifications. All  of  t
 - 2 3 : 4 2
 - 3 : 1 6 
 - 3 : 1 6 a m
+
+
+How your prgrams will be run:
+dfa.py automaton.cfg w1 w2 w3 w4 w5 `(w1 w2 w3 w4 w5 are from string_{no_test})`
+nfa.py automaton.cfg implementation_1 w1 w2 w3 w4 w5
+
+Modify your current programs to output `accept(ed)` for accepted strings, `reject(ed)` for rejected strings, and `invalid` for invalid config files
