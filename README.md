@@ -12,6 +12,7 @@ A one config file for an automaton that accepts time  specifications. All  of  t
 - 3 : 1 6 a m
 - 1 3 : 0 3
 - 3 : 0 3 p m
+
 Not accepted:
 - 0 3 : 0 3
 - 1 3
