@@ -16,4 +16,6 @@ How your prgrams will be run:
 dfa.py automaton.cfg w1 w2 w3 w4 w5 `(w1 w2 w3 w4 w5 are from string_{no_test})`
 nfa.py automaton.cfg implementation_1 w1 w2 w3 w4 w5
 
-Modify your current programs to output `accept(ed)` for accepted strings, `reject(ed)` for rejected strings, and `invalid` for invalid config files
+Modify your current programs to output `accept(ed)` for accepted strings, `reject(ed)` for rejected strings, and `invalid` for invalid config files.
+
+Alternatively, for Python3 implementations, a test similar with `tester.py` can be used by me (you don't have to write the tester). For NFA, select a default implementation in your code such that it's abstracted away (use your favorite implementation as ste default one). This will bring you 0.25 bonus points.
