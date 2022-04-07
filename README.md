@@ -55,6 +55,8 @@ Do NOT implement weird config files such that their automatons would spit a vali
 
 3. `nfa.py automaton.cfg "w1 w2 w3 w4 w5"`
 
+# Important modification of previous programs - why you will get two extra weeks for the labs:
 Modify your current programs to output `accept(ed)` for accepted strings, `reject(ed)` for rejected strings, and `invalid` for invalid config files.
 
-Alternatively, for Python3 implementations, a test similar with `tester.py` can be used by me (you don't have to write the tester). For NFA, select a default implementation in your code such that it's abstracted away so it runs as in example `3.` (use your favorite implementation as the default one). This will bring you 0.25 bonus points. Write in the Google Sheets, 'Studenți' page wether you preffer this way of testing.
+# Notes
+For Python3 implementations, a test similar with `tester.py` can be used (you don't have to write the tester). For NFA, select a default implementation in your code such that it's abstracted away so it runs as in example `3.` (use your favorite implementation as the default one). This will bring you 0.25 bonus points. Write in the Google Sheets, 'Studenți' page wether you preffer this way of testing.
