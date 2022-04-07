@@ -55,7 +55,8 @@ Do NOT implement weird config files such that their automatons would spit a vali
 
 3. `nfa.py automaton.cfg "w1 w2 w3 w4 w5"`
 
-# Important modification of previous programs - why you will get two extra weeks for the labs:
+# Important modification of previous programs 
+#### Why you will get two extra weeks for the labs
 Modify your current programs to output `accept(ed)` for accepted strings, `reject(ed)` for rejected strings, and `invalid` for invalid config files.
 
 # Notes
