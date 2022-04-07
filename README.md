@@ -60,4 +60,4 @@ Do NOT implement weird config files such that their automatons would spit a vali
 Modify your current programs to output `accept(ed)` for accepted strings, `reject(ed)` for rejected strings, and `invalid` for invalid config files.
 
 # Notes
-For Python3 implementations, a test similar with `tester.py` can be used (you don't have to write the tester). For NFA, select a default implementation in your code such that it's abstracted away so it runs as in example `3.` (use your favorite implementation as the default one). This will bring you 0.25 bonus points. Write in the Google Sheets, 'Studenți' page wether you preffer this way of testing.
+For Python3 implementations, a test similar with `tester.py` can be used to eveluate your work (you don't have to write the tester). For NFA, select a default implementation in your code such that it's abstracted away so it runs as in example `3.` (use your favorite implementation as the default one). This will bring you 0.25 bonus points. Write in the Google Sheets, 'Studenți' page wether you preffer this way of testing.
