@@ -29,6 +29,8 @@ The following examples should be accepted:
 - 1 3 : 0 3
 - 3 : 0 3 p m
 - 0 : 0 1
+
+
 Not accepted:
 - 0 3 : 0 3
 - 1 3
