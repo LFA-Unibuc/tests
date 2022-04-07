@@ -59,6 +59,8 @@ Not accepted:
 ## Arbitrary automaton - tests3
 Come up with an adversarial config and tests for your colleagues - think of special cases they missed when validating the DFA and NFA. 
 
+Write a file `MY_AUTOMATON.MD` in the root directory in which you describe what the automaton is supposed to accept and reject.
+
 Do NOT implement weird config files such that their automatons would spit a validation error, if more than half your colleagues get a validation error, then your config will be considered invalid.
 
 # How your programs will be run:
